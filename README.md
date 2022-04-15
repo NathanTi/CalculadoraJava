@@ -8,8 +8,8 @@
 - Java Swing.
 
 ### COMO TESTAR :cd:
-- Primeiramente, é necessário possuir o Java e o Java SE instalado em sua máquinha.
-- Após isso siga os passos: 
+- Primeiramente, é Necessário Possuir o Java e o Java SE Instalado em sua Máquinha.
+- Após Isso Siga os Passos: 
 - Suba a Página e Procure Por "Main".
 - Clique em "Main".
 - Após Isso, Um Pequeno Menu Será Aberto.
