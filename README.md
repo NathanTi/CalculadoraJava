@@ -1,4 +1,4 @@
-# CALCULADORA EM JAVA :computer:
+# CALCULADORA EM JAVA :
 
 ### OBJETIVOS DO PROJETO :memo:
 - Projeto Que Visa Fazer Uma Calculadora Básica Utilizando a Linguagem Java.
@@ -8,7 +8,7 @@
 - Java Swing.
 
 ### COMO TESTAR :cd:
-- Primeiramente, é Necessário Possuir o Java e o Java SE Instalado em sua Máquinha.
+- Primeiramente, é Necessário Possuir a JRE mais recente Instalada em sua Máquinha.
 - Após Isso Siga os Passos: 
 - Suba a Página e Procure Por "Main".
 - Clique em "Main".
